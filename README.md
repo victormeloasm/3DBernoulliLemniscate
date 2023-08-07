@@ -3,6 +3,8 @@
 **Description:**
 This project involves a 3D simulation of the Bernoulli Lemniscate using MATLAB. The Bernoulli Lemniscate is a fascinating curve that takes the shape of the mathematical infinity symbol (∞). In this repository, you will find a MATLAB code that generates a visual representation of this curve in a three-dimensional (3D) space and saves the simulation as a PNG image.
 
+![3D Simulation of the Bernoulli Lemniscate](lemniscata_de_bernoulli.png)
+
 ## Bernoulli Lemniscate:
 The Bernoulli Lemniscate is a remarkable mathematical curve discovered by Swiss mathematician Jacob Bernoulli (also known as James Bernoulli). It's often referred to as the "lemniscate" due to its characteristic shape resembling the infinity symbol (∞). The parametric equation of the Bernoulli Lemniscate in Cartesian coordinates is given by:
 
